@@ -6,4 +6,4 @@
 
 ## Links
 
-[Here's a link to the google drive walkthrough video!]()
+[Here's a link to the google drive walkthrough video!](https://drive.google.com/file/d/1aCfsKe1svDefEMdjMlUlTLtSpLz4rvaI/view)
